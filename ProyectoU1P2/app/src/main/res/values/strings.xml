@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TomaPedidosRestaurante</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="pastel_image">Pastel de Choclo Image</string>
+    <string name="cazuela_image">Cazuela Image</string>
+
+</resources>
